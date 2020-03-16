@@ -2,7 +2,7 @@
   "name": "vue-admin-artiely",
   "version": "1.0.1",
   "description": "vue-admin bu iview",
-  "author": "artiely <artiely1220@gmail.com>",
+  "author": "qjinshanq <qjinshanq@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
